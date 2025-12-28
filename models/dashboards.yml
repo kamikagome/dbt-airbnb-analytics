@@ -1,0 +1,15 @@
+exposures:
+  - name: airbnb_reviews_dashboard
+    label: "Airbnb Reviews Dashboard"
+    type: dashboard
+    maturity: low
+    url: https://6dc55a26.us2a.app.preset.io/superset/dashboard/8/?native_filters_key=DYJHbcDkjELIME2iBBfNHnuf-B1PggTXvNqcYPNc5pskZFaUZdeJz_1_Bb-bhlIc
+      
+
+    depends_on:
+      - ref('dim_listings_w_hosts')
+      - ref('mart_fullmoon_reviews')
+
+    owner:
+      name: Zoltan C. Toth
+      email: dbtstudent@gmail.com

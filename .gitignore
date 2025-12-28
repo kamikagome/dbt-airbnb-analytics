@@ -1,0 +1,14 @@
+
+target/
+dbt_packages/
+logs/
+
+# Credential files - DO NOT COMMIT
+CLAUDE.md
+profiles.yml
+.user.yml
+*.env
+.env*
+credentials.json
+secrets.yml
+dbt_internal_packages/
