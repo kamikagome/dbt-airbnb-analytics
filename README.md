@@ -15,7 +15,7 @@ This project transforms raw Airbnb data into analytics-ready models using Snowfl
 ```
 airbnb/
 ├── models/
-│   ├── src/          # Source models (ephemeral)
+│   ├── src/          # Source models 
 │   ├── dim/          # Dimension tables
 │   ├── fct/          # Fact tables
 │   └── mart/         # Business marts
