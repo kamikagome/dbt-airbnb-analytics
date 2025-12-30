@@ -4,7 +4,7 @@ A dbt practice project from the [Complete dbt Bootcamp](https://www.udemy.com/co
 
 ## Overview
 
-This project transforms raw Airbnb data into analytics-ready models using Snowflake and dbt. It features a fun hypothesis test: "Do people leave bad reviews more often during a full moon?"
+This project transforms raw Airbnb data into analytics-ready models using Snowflake and dbt. It features a hypothesis test: "Do people leave bad reviews more often during a full moon?" (tongue in cheek). 
 
 ![Airbnb Reviews Dashboard](Preset.png)
 
